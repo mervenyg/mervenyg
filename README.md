@@ -1,1 +1,2 @@
-- 👋 Hi, I’m @mervenyg
+- 👋 Hi, I’m Merve
+- It's my 4th year in studying computer engineering

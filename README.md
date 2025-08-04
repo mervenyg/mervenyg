@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Merve
-- It's my 4th year in studying computer engineering.
-- My graduation project is about making a secure socket programming application.
+- I recently graduated from Ege University computer engineering.
+- My graduation project is about making a secure socket programming application using python and blockchain.
 - I want to be a Business Analyst in the future.
